@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Open Sans");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Open Sans";
+  }
+}
+
+#menu-toggle:checked + #menu {
+  display: block;
+}
+
+.bg-img {
+  background-image: url(../../assets/images/front.jpg) no-repeat center center
+    fixed;
+  background-position: center;
+  height: 100%;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-hero-pattern {
+    background-image: url(../../assets/images/front.jpg);
+}
