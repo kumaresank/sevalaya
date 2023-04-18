@@ -10,7 +10,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/5.jpg"
+                    src="assets/images/compressed/5.jpg"
                   />
                 </a>
               </article>
@@ -22,7 +22,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/4.jpg"
+                    src="assets/images/compressed/4.jpg"
                   />
                 </a>
               </article>
@@ -34,7 +34,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/3.jpg"
+                    src="assets/images/compressed/3.jpg"
                   />
                 </a>
               </article>
@@ -48,7 +48,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../../assets/images/compressed/IMG-20161011-WA0012-ox5mjdxa1jxm8b6fnpvna7a7nyi8h7ked2l07td2n4.jpg"
+                    src="assets/images/compressed/IMG-20161011-WA0012-ox5mjdxa1jxm8b6fnpvna7a7nyi8h7ked2l07td2n4.jpg"
                   />
                 </a>
               </article>
@@ -60,7 +60,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/1.jpg"
+                    src="assets/images/compressed/1.jpg"
                   />
                 </a>
               </article>
@@ -72,7 +72,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/2.jpg"
+                    src="assets/images/compressed/2.jpg"
                   />
                 </a>
               </article>
@@ -86,7 +86,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/12.jpg"
+                    src="assets/images/compressed/12.jpg"
                   />
                 </a>
               </article>
@@ -98,7 +98,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/10.jpg"
+                    src="assets/images/compressed/10.jpg"
                   />
                 </a>
               </article>
@@ -110,7 +110,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/9.jpg"
+                    src="assets/images/compressed/9.jpg"
                   />
                 </a>
               </article>
@@ -124,7 +124,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/8.jpg"
+                    src="assets/images/compressed/8.jpg"
                   />
                 </a>
               </article>
@@ -136,7 +136,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/7.jpg"
+                    src="assets/images/compressed/7.jpg"
                   />
                 </a>
               </article>
@@ -148,7 +148,7 @@ export default function Gallery() {
                   <img
                     alt="Placeholder"
                     className="block h-auto w-full hover:scale-150 ease-in duration-500"
-                    src="../assets/images/compressed/6.jpg"
+                    src="assets/images/compressed/6.jpg"
                   />
                 </a>
               </article>

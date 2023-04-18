@@ -51,7 +51,7 @@ export default function Home() {
 
       <div className="flex flex-row bg-orange-800 w-full ml-auto mr-auto text-center justify-center  content-center py-20 ">
         <div className="w-20 md:mr-20 sm:w-25 ">
-          <img src="../assets/images/quote-1.png" />
+          <img src="assets/images/quote-1.png" />
         </div>
         <div className="flex flex-col">
           <p className="md:text-2xl sm:text-lg text-yellow-200  font-extrabold">
@@ -77,7 +77,7 @@ export default function Home() {
               <div className="relative overflow-hidden pb-60">
                 <img
                   className="absolute h-full w-full object-cover object-center"
-                  src="../assets/images/poor-child-children-2061337-768x545.jpg"
+                  src="assets/images/poor-child-children-2061337-768x545.jpg"
                   alt=""
                 />
               </div>
@@ -124,7 +124,7 @@ export default function Home() {
               <div className="relative overflow-hidden pb-60">
                 <img
                   className="absolute h-full w-full object-cover object-center"
-                  src="../assets/images/meditate-meditation-peaceful-1851165-768x512.jpg"
+                  src="assets/images/meditate-meditation-peaceful-1851165-768x512.jpg"
                   alt=""
                 />
               </div>
@@ -178,7 +178,7 @@ export default function Home() {
               <div className="relative overflow-hidden pb-60">
                 <img
                   className="absolute h-full w-full object-cover object-center"
-                  src="../assets/images/compressed/team-spirit-cohesion-together-2447163-300x243.jpg"
+                  src="assets/images/compressed/team-spirit-cohesion-together-2447163-300x243.jpg"
                   alt=""
                 />
               </div>
@@ -225,7 +225,7 @@ export default function Home() {
               <div className="relative overflow-hidden pb-60">
                 <img
                   className="absolute h-full w-full object-cover object-center"
-                  src="../assets/images/compressed/Karimnagar.jpg"
+                  src="assets/images/compressed/Karimnagar.jpg"
                   alt=""
                 />
               </div>
@@ -281,25 +281,25 @@ export default function Home() {
       <div className="bg-orange-800 grid xl:grid-cols-4 xl:grid-flow-row sm:grid-flow-col md:grid-flow-col ontent-center items-center justify-center pb-20 ">
         <div className="  p-5 ">
           <img
-            src="../../assets/images/compressed/1.jpg"
+            src="assets/images/compressed/1.jpg"
             className="rounded-lg max-w-full h-auto object-contain"
           />
         </div>
         <div className="  p-5">
           <img
-            src="../../assets/images/compressed/2.jpg"
+            src="assets/images/compressed/2.jpg"
             className="rounded-lg max-w-full h-auto object-contain"
           />
         </div>
         <div className="  p-5">
           <img
-            src="../../assets/images/compressed/3.jpg"
+            src="assets/images/compressed/3.jpg"
             className="rounded-lg max-w-full h-auto object-contain"
           />
         </div>
         <div className=" p-5 ">
           <img
-            src="../../assets/images/compressed/4.jpg "
+            src="assets/images/compressed/4.jpg "
             className="rounded-lg w-full   object-contain"
           />
         </div>

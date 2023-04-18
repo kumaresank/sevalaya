@@ -5,7 +5,7 @@ export default function Contact() {
         <div
           className="absolute top-0 w-full h-80 bg-top bg-cover "
           style={{
-            backgroundImage: `url('../../assets/images/banner/af82b1b22f25aa21e8cc3f8b9268ae74.jpg')`,
+            backgroundImage: `url('assets/images/banner/af82b1b22f25aa21e8cc3f8b9268ae74.jpg')`,
           }}
         >
           <span

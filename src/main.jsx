@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import {
-  createBrowserRouter,
+  createHashRouter,
   RouterProvider,
 } from "react-router-dom";
 import Layout from './components/Layout';
@@ -12,7 +12,7 @@ import Gallery from './components/pages/Gallery';
 import Members from './components/pages/Members';
 import './index.css';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
     path: "/",
     element: <Layout/>,

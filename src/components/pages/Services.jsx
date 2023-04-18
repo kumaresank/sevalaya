@@ -4,7 +4,7 @@ export default function Services() {
       <div className="relative pt-16 pb-20 flex content-center items-center justify-center">
         <div
           className="absolute top-0 w-full h-80 bg-top bg-cover "
-          style={{backgroundImage: `url('../../assets/images/banner/Helping-banner.jpg')`}}
+          style={{backgroundImage: `url('assets/images/banner/Helping-banner.jpg')`}}
         >
           <span
             id="blackOverlay"

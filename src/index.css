@@ -15,7 +15,7 @@
 }
 
 .bg-img {
-  background-image: url(../../assets/images/front.jpg) no-repeat center center
+  background-image: url(assets/images/front.jpg) no-repeat center center
     fixed;
   background-position: center;
   height: 100%;
@@ -25,5 +25,5 @@
 }
 
 .bg-hero-pattern {
-    background-image: url(../../assets/images/front.jpg);
+    background-image: url(assets/images/front.jpg);
 }

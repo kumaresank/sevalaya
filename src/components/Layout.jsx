@@ -8,7 +8,7 @@ export default function Layout() {
         <header className="bg-orange-800 flex flex-wrap justify-between items-center lg:px-16 px-6 lg:py-0 py-2">
           <div className="flex flex-row ">
             <div className="w-16 xl:p-2 lg:w-20">
-              <img src="../../assets/images/logo.png" />
+              <img src="assets/images/logo.png" />
             </div>
 
             <div className="text-xs ">
